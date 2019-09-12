@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3ad6aef85ba690136f96d92d6cb69ae8",
+    "revision": "4ace499d4adba26b12c93903114e7037",
     "url": "/what4DO/index.html"
   },
   {
-    "revision": "42de5f830755b68699d8",
+    "revision": "1ffde0722a21df6fad86",
     "url": "/what4DO/static/css/2.7d6f7eac.chunk.css"
   },
   {
-    "revision": "331094cc9c761ff2dd09",
+    "revision": "d6ad3bef145899d004bf",
     "url": "/what4DO/static/css/main.c8998647.chunk.css"
   },
   {
-    "revision": "42de5f830755b68699d8",
-    "url": "/what4DO/static/js/2.1d7f44a6.chunk.js"
+    "revision": "1ffde0722a21df6fad86",
+    "url": "/what4DO/static/js/2.327e39e5.chunk.js"
   },
   {
-    "revision": "331094cc9c761ff2dd09",
-    "url": "/what4DO/static/js/main.97aa233e.chunk.js"
+    "revision": "d6ad3bef145899d004bf",
+    "url": "/what4DO/static/js/main.5432cb1e.chunk.js"
   },
   {
     "revision": "a96da711ae839e3b87bf",
